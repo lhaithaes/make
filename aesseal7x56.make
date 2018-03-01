@@ -62,7 +62,7 @@ projects[field_group][version] = "1.6"
 projects[field_hidden][version] = "1.7"
 
 ; Remove in later version
-projects[field_slideshow][version] = "1.82+2-dev"
+projects[field_slideshow][version] = "1.82"
 
 projects[field_validation][version] = "2.6"
 
