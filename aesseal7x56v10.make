@@ -197,6 +197,6 @@ libraries[flexslider][directory_name] = "flexslider"
 libraries[flexslider][type] = "library"
 
 libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%20VERSION/ckeditor_VERSION_full.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.0.2/ckeditor_3.0.2.tar.gz"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
