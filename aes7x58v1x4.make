@@ -163,7 +163,7 @@ projects[views][version] = "3.18"
 projects[views_fluid_grid][version] = "3.0"
 
 ; Remove in later version
-projects[views_infinite_scroll][version] = "1.2"
+projects[views_infinite_scroll][version] = "2.1"
 
 ; Remove in later version
 projects[views_slideshow][version] = "3.9"
