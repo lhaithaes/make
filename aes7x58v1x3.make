@@ -108,7 +108,7 @@ projects[libraries][version] = "2.3"
 
 projects[login_security][version] = "1.9"
 
-projects[masonry][version] = "3.0-beta1+4-dev"
+projects[masonry][version] = "3.0-beta1"
 
 projects[masonry_views][version] = "3.0"
 
@@ -163,7 +163,7 @@ projects[views][version] = "3.18"
 projects[views_fluid_grid][version] = "3.0"
 
 ; Remove in later version
-projects[views_infinite_scroll][version] = "1.2+1-dev"
+projects[views_infinite_scroll][version] = "1.2"
 
 ; Remove in later version
 projects[views_slideshow][version] = "3.9"
@@ -174,8 +174,12 @@ projects[xmlsitemap][version] = "2.3"
 
 ; Themes
 projects[bootstrap][version] = "3.15"
-
 projects[adminimal_theme][version] = "1.24"
+
+projects[aesseal_classic][download][type] = "git"
+projects[aesseal_classic][download][url] = "https://github.com/Coulton7/aesseal_classic.git"
+projects[aesseal_classic][type] = "theme"
+projects[aesseal_classic][directory_name] = "aesseal_classic"
 
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
