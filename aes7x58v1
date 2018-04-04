@@ -4,7 +4,7 @@ core = 7.x
 ; Drupal 7
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-7.56.tar.gz"
+projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-7.58.tar.gz"
 
 ; Modules
 projects[views_bulk_operations][version] = "3.4"
