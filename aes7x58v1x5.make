@@ -102,7 +102,7 @@ projects[l10n_update][version] = "1.0-beta3"
 
 
 projects[location][download][type] = "git"
-projects[location][download][url] = "https://github.com/Coulton7/location.git"
+projects[location][download][url] = "https://github.com/lhaith/location.git"
 projects[location][type] = "module"
 projects[location][directory_name] = "location"
 
