@@ -164,6 +164,8 @@ projects[variable][version] = "2.5"
 
 projects[views][version] = "3.18"
 
+projects[views_data_export] = "3.2"
+
 ; Remove in later version
 projects[views_fluid_grid][version] = "3.0"
 
