@@ -180,7 +180,7 @@ projects[wysiwyg][version] = "2.4"
 projects[xmlsitemap][version] = "2.3"
 
 ; Themes
-projects[bootstrap][version] = "3.15"
+projects[bootstrap][version] = "3.19"
 projects[adminimal_theme][version] = "1.24"
 
 projects[aesseal_classic][download][type] = "git"
