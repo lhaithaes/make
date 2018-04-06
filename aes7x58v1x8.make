@@ -188,6 +188,11 @@ projects[aesseal_classic][download][url] = "https://github.com/Coulton7/aesseal_
 projects[aesseal_classic][type] = "theme"
 projects[aesseal_classic][directory_name] = "aesseal_classic"
 
+projects[aesseal_classic][download][type] = "git"
+projects[aesseal_classic][download][url] = "https://github.com/Coulton7/aesbs337.git"
+projects[aesseal_classic][type] = "theme"
+projects[aesseal_classic][directory_name] = "aesbs337"
+
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
