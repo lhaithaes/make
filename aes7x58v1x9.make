@@ -154,8 +154,6 @@ projects[search_api_solr][version] = "1.12"
 
 projects[security_review][version] = "1.3"
 
-projects[taxonomy_menu][version] = "2.0-alpha2"
-
 projects[token][version] = "1.7"
 
 projects[tvi][version] = "1.0"
