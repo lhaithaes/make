@@ -26,10 +26,6 @@ projects[cdn][version] = "2.10"
 ; Remove in later version
 projects[contact_forms][version] = "1.8"
 
-projects[facetapi][version] = "1.5"
-
-projects[custom_search][version] = "1.20"
-
 ; Remove in later version
 projects[ds][version] = "2.11"
 
@@ -144,13 +140,17 @@ projects[rules_url_argument][version] = "1.2"
 ; Remove in later version
 projects[schema][version] = "1.3"
 
-projects[search_api][version] = "1.22"
+projects[search_api][version] = "1.24"
 
 projects[search_api_autocomplete][version] = "1.5"
 
 projects[search_api_page][version] = "1.4"
 
 projects[search_api_solr][version] = "1.12"
+
+projects[facetapi][version] = "1.5"
+
+projects[custom_search][version] = "1.20"
 
 projects[security_review][version] = "1.3"
 
