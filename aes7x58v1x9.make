@@ -170,9 +170,6 @@ projects[views_fluid_grid][version] = "3.0"
 ; Remove in later version
 projects[views_infinite_scroll][version] = "2.1"
 
-; Remove in later version
-projects[views_slideshow][version] = "3.9"
-
 projects[wysiwyg][version] = "2.4"
 
 projects[xmlsitemap][version] = "2.3"
