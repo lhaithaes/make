@@ -165,9 +165,6 @@ projects[views][version] = "3.18"
 projects[views_data_export] = "3.2"
 
 ; Remove in later version
-projects[views_fluid_grid][version] = "3.0"
-
-; Remove in later version
 projects[views_infinite_scroll][version] = "2.1"
 
 projects[wysiwyg][version] = "2.4"
