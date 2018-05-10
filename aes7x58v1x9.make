@@ -26,9 +26,6 @@ projects[cdn][version] = "2.10"
 ; Remove in later version
 projects[contact_forms][version] = "1.8"
 
-; Remove in later version
-projects[ds][version] = "2.11"
-
 projects[entity][version] = "1.9"
 
 projects[entity2text][version] = "1.0-alpha3"
@@ -68,10 +65,7 @@ projects[flexslider][version] = "2.0-rc2"
 
 projects[picture][version] = "2.13"
 
-; Remove in later version
 projects[globalredirect][version] = "1.6"
-
-projects[redirect][version] = "1.0-rc3"
 
 projects[gmap][version] = "2.8"
 
