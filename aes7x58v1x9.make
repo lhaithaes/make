@@ -36,7 +36,7 @@ projects[entityform][version] = "2.0-rc4"
 
 projects[entityreference][version] = "1.5"
 
-projects[eu_cookie_compliance][version] = "1.17"
+projects[eu_cookie_compliance][version] = "1.23"
 
 projects[feeds][version] = "2.0-beta4"
 
