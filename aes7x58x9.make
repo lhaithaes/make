@@ -54,9 +54,6 @@ projects[field_group][version] = “1.6”
 
 projects[field_hidden][version] = "1.7"
 
-; Remove in later version
-projects[field_slideshow][version] = "1.x-dev"
-
 projects[field_validation][version] = "2.6"
 
 projects[filefield_sources][version] = "1.11"
