@@ -4,7 +4,7 @@ core = 7.x
 ; Drupal 7
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.58.1.tar.gz"
+projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.59.1.tar.gz"
 
 ; Modules
 projects[views_bulk_operations][version] = "3.4"
@@ -50,7 +50,7 @@ projects[field_group_ajaxified_multipage][version] = "1.1"
 
 projects[field_default_token][version] = "1.3"
 
-projects[field_group][version] = "1.5"
+projects[field_group][version] = “1.6”
 
 projects[field_hidden][version] = "1.7"
 
@@ -67,7 +67,7 @@ projects[picture][version] = "2.13"
 
 projects[globalredirect][version] = "1.6"
 
-projects[gmap][version] = "2.8"
+projects[gmap][version] = “2.11”
 
 ; Remove in later version
 projects[google_analytics][version] = "2.4"
@@ -174,10 +174,15 @@ projects[aesseal_classic][download][url] = "https://github.com/Coulton7/aesseal_
 projects[aesseal_classic][type] = "theme"
 projects[aesseal_classic][directory_name] = "aesseal_classic"
 
-projects[aesseal_classic][download][type] = "git"
-projects[aesseal_classic][download][url] = "https://github.com/Coulton7/aesbs337.git"
-projects[aesseal_classic][type] = "theme"
-projects[aesseal_classic][directory_name] = "aesbs337"
+projects[aesbs337][download][type] = "git"
+projects[aesbs337][download][url] = "https://github.com/Coulton7/aesbs337.git"
+projects[aesbs337][type] = "theme"
+projects[aesbs337][directory_name] = "aesbs337"
+
+projects[aesglobal][download][type] = "git"
+projects[aesglobal][download][url] = "https://github.com/Coulton7/aesglobal.git"
+projects[aesglobal][type] = "theme"
+projects[aesglobal][directory_name] = "aesglobal"
 
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
