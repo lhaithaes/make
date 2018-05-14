@@ -50,7 +50,7 @@ projects[field_group_ajaxified_multipage][version] = "1.1"
 
 projects[field_default_token][version] = "1.3"
 
-projects[field_group][version] = “1.6”
+projects[field_group][version] = "1.6"
 
 projects[field_hidden][version] = "1.7"
 
