@@ -7,7 +7,7 @@ projects[drupal][download][type] = "get"
 projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.59.1.tar.gz"
 
 ; Modules
-projects[views_bulk_operations][version] = "3.4"
+projects[views_bulk_operations][version] = "3.5"
 
 projects[backup_migrate][version] = "3.5"
 
@@ -73,7 +73,7 @@ projects[google_tag][version] = "1.3"
 
 projects[httpbl][version] = "1.0"
 
-projects[i18n][version] = "1.12"
+projects[i18n][version] = "1.24"
 
 projects[i18n_contrib][version] = "1.0-alpha2"
 
@@ -94,7 +94,7 @@ projects[location][type] = "module"
 projects[location][directory_name] = "location"
 
 
-projects[lang_dropdown][version] = "2.5"
+projects[lang_dropdown][version] = "2.6"
 
 projects[libraries][version] = "2.3"
 
@@ -111,7 +111,7 @@ projects[menu_attributes][version] = "1.0"
 
 projects[menu_block][version] = "2.7"
 
-projects[metatag][version] = "1.22"
+projects[metatag][version] = "1.25"
 
 projects[module_filter][version] = "2.1"
 
@@ -151,7 +151,7 @@ projects[tvi][version] = "1.0"
 
 projects[variable][version] = "2.5"
 
-projects[views][version] = "3.18"
+projects[views][version] = "3.20"
 
 projects[views_data_export] = "3.2"
 
