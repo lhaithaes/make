@@ -64,7 +64,7 @@ projects[picture][version] = "2.13"
 
 projects[globalredirect][version] = "1.6"
 
-projects[gmap][version] = “2.11”
+projects[gmap][version] = "2.11"
 
 ; Remove in later version
 projects[google_analytics][version] = "2.4"
