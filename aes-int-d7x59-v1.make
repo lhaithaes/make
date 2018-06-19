@@ -112,6 +112,22 @@ libraries[flexslider][download][url] = "https://github.com/woocommerce/FlexSlide
 libraries[flexslider][directory_name] = "flexslider"
 libraries[flexslider][type] = "library"
 
+libraries[flexslider][download][type] = "git"
+libraries[flexslider][download][url] = "https://github.com/FortAwesome/Font-Awesome.git"
+libraries[flexslider][directory_name] = "fontawesome"
+libraries[flexslider][type] = "library"
+
+libraries[flexslider][download][type] = "git"
+libraries[flexslider][download][url] = "https://github.com/kni-labs/rrssb.git"
+libraries[flexslider][directory_name] = "rrssb"
+libraries[flexslider][type] = "library"
+
+libraries[flexslider][download][type] = "git"
+libraries[flexslider][download][url] = "https://github.com/AdamPS/rrssb-plus.git"
+libraries[flexslider][directory_name] = "rrssb-plus"
+libraries[flexslider][type] = "library"
+
+
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.7.2/ckeditor_4.7.2_full.tar.gz"
 libraries[ckeditor][directory_name] = "ckeditor"
