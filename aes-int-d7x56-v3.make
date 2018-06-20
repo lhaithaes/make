@@ -113,7 +113,7 @@ libraries[flexslider][directory_name] = "flexslider"
 libraries[flexslider][type] = "library"
 
 libraries[fontawesome][download][type] = "get"
-libraries[fontawesome][download][url] = "https://fontawesome.com/v4.7.0/assets/font-awesome-4.7.0.zip"
+libraries[fontawesome][download][url] = "https://github.com/FortAwesome/Font-Awesome/archive/v4.7.0.tar.gz"
 libraries[fontawesome][directory_name] = "fontawesome"
 libraries[fontawesome][type] = "library"
 
