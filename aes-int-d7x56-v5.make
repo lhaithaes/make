@@ -112,11 +112,6 @@ libraries[flexslider][download][url] = "https://github.com/woocommerce/FlexSlide
 libraries[flexslider][directory_name] = "flexslider"
 libraries[flexslider][type] = "library"
 
-libraries[fontawesome][download][type] = "get"
-libraries[fontawesome][download][url] = "https://github.com/FortAwesome/Font-Awesome/archive/v4.7.0.tar.gz"
-libraries[fontawesome][directory_name] = "fontawesome"
-libraries[fontawesome][type] = "library"
-
 libraries[rrssb][download][type] = "git"
 libraries[rrssb][download][url] = "https://github.com/kni-labs/rrssb.git"
 libraries[rrssb][directory_name] = "rrssb"
