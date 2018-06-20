@@ -88,10 +88,10 @@ projects[aesbs337][download][url] = "https://github.com/Coulton7/aesbs337.git"
 projects[aesbs337][type] = "theme"
 projects[aesbs337][directory_name] = "aesbs337"
 
-projects[aesglobal][download][type] = "git"
-projects[aesglobal][download][url] = "https://github.com/Coulton7/aesinternational.git"
-projects[aesglobal][type] = "theme"
-projects[aesglobal][directory_name] = "aesinternational"
+projects[aesinternational][download][type] = "git"
+projects[aesinternational][download][url] = "https://github.com/Coulton7/aesinternational.git"
+projects[aesinternational][type] = "theme"
+projects[aesinternational][directory_name] = "aesinternational"
 
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
