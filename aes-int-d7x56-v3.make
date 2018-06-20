@@ -131,3 +131,18 @@ libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.7.2/ckeditor_4.7.2_full.tar.gz"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
+
+; Library: Modernizr
+libraries[modernizr][download][type] = git
+libraries[modernizr][download][url] = https://github.com/BrianGilbert/modernizer-navbar.git
+libraries[modernizr][download][revision] = 5b89d9225320e88588f1cdc43b8b1e373fa4c60f
+
+; Library: Backbone
+libraries[backbone][download][type] = git
+libraries[backbone][download][url] = https://github.com/jashkenas/backbone.git
+libraries[backbone][download][tag] = 1.0.0
+
+; Library: Underscore
+libraries[underscore][download][type] = git
+libraries[underscore][download][url] = https://github.com/jashkenas/underscore.git
+libraries[underscore][download][tag] = 1.5.0
