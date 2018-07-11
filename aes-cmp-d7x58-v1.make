@@ -131,6 +131,8 @@ libraries[imagesloaded][type] = "library"
 libraries[underscore][download][type] = "git"
 libraries[underscore][download][url] = "https://github.com/jashkenas/underscore.git"
 libraries[underscore][download][tag] = "1.5.0"
+libraries[imagesloaded][directory_name] = "underscore"
+libraries[imagesloaded][type] = "library"
 
 libraries[imagesloaded][download][type] = "get"
 libraries[imagesloaded][download][url] = "http://desandro.github.io/imagesloaded/imagesloaded.pkgd.min.js"
