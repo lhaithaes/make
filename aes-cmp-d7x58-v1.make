@@ -4,7 +4,7 @@ core = 7.x
 ; Drupal 7
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.59.1.tar.gz"
+projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.58.1.tar.gz"
 
 ; Modules
 projects[ajax_facets][version] = "3.7"
@@ -80,12 +80,12 @@ projects[remote_stream_wrapper][version] = "1.0-rc1"
 projects[respondjs][version] = "1.5"
 projects[rules][version] = "2.10"
 projects[rules_admin][version] = "2.10"
+projects[rrssb][version] = "2.3"
 projects[search_api][version] = "1.21"
 projects[search_api_autocomplete][version] = "1.4"
 projects[search_api_exclude][version] = "1.2"
 projects[search_api_facetapi][version] = "1.21"
 projects[search_api_views][version] = "1.21"
-projects[sharethis][version] = "2.12"
 projects[shs][version] = "1.7"
 projects[search_api_solr][version] = "1.12"
 projects[tablefield][version] = "2.4"
@@ -98,6 +98,9 @@ projects[views_data_export][version] = "3.2"
 projects[views_filters_selective][version] = "1.5"
 projects[views_ui][version] = "3.18"
 projects[wysiwyg][version] = "2.2"
+
+; Modules remove in a later version
+projects[sharethis][version] = "2.12"
 
 ; Themes
 projects[bootstrap][version] = "3.19"
@@ -112,22 +115,34 @@ projects[aesbs337][directory_name] = "bootstrap_component"
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
 
+; required by navbar
+libraries[imagesloaded][download][type] = "get"
+libraries[imagesloaded][download][url] = "https://github.com/jashkenas/backbone/archive/1.1.0.zip"
+libraries[imagesloaded][directory_name] = "backbone"
+libraries[imagesloaded][type] = "library"
+
+; required by navbar
+libraries[modernizr][download][type] = "file"
+libraries[modernizr][download][url] = "https://raw.githubusercontent.com/BrianGilbert/modernizer-navbar/2.7.1/modernizr-min.js"
+libraries[imagesloaded][directory_name] = "modernizr"
+libraries[imagesloaded][type] = "library"
+
+; required by navbar
+libraries[underscore][download][type] = "git"
+libraries[underscore][download][url] = "https://github.com/jashkenas/underscore.git"
+libraries[underscore][download][tag] = "1.5.0"
+
 libraries[imagesloaded][download][type] = "get"
 libraries[imagesloaded][download][url] = "http://desandro.github.io/imagesloaded/imagesloaded.pkgd.min.js"
 libraries[imagesloaded][directory_name] = "imagesloaded"
 libraries[imagesloaded][type] = "library"
 
-libraries[masonry][download][type] = "get"
-libraries[masonry][download][url] = "https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"
-libraries[masonry][directory_name] = "masonry"
-libraries[masonry][type] = "library"
-
-libraries[flexslider][download][type] = "git"
-libraries[flexslider][download][url] = "https://github.com/woocommerce/FlexSlider.git"
-libraries[flexslider][directory_name] = "flexslider"
-libraries[flexslider][type] = "library"
-
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.7.2/ckeditor_4.7.2_full.tar.gz"
 libraries[ckeditor][directory_name] = "ckeditor"
+libraries[ckeditor][type] = "library"
+
+libraries[ckeditor][download][type] = "get"
+libraries[ckeditor][download][url] = "https://github.com/kni-labs/rrssb/archive/1.8.1.zip"
+libraries[ckeditor][directory_name] = "rrssb"
 libraries[ckeditor][type] = "library"
