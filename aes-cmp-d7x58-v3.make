@@ -130,5 +130,5 @@ libraries[ckeditor][type] = "library"
 
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "https://github.com/kni-labs/rrssb/archive/1.8.1.zip"
-libraries[ckeditor][directory_name] = "rrssb"
+libraries[ckeditor][directory_name] = "rrssb-plus"
 libraries[ckeditor][type] = "library"
