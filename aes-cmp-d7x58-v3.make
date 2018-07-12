@@ -100,23 +100,23 @@ projects[aesbs337][directory_name] = "bootstrap_component"
 ; and url is the url of the download.
 
 ; required by navbar
-libraries[imagesloaded][download][type] = "get"
-libraries[imagesloaded][download][url] = "https://github.com/jashkenas/backbone/archive/1.1.0.zip"
-libraries[imagesloaded][directory_name] = "backbone"
-libraries[imagesloaded][type] = "library"
+libraries[backbone][download][type] = "get"
+libraries[backbone][download][url] = "https://github.com/jashkenas/backbone/archive/1.1.0.zip"
+libraries[backbone][directory_name] = "backbone"
+libraries[backbone][type] = "library"
 
 ; required by navbar
 libraries[modernizr][download][type] = "file"
 libraries[modernizr][download][url] = "https://raw.githubusercontent.com/BrianGilbert/modernizer-navbar/2.7.1/modernizr-min.js"
-libraries[imagesloaded][directory_name] = "modernizr"
-libraries[imagesloaded][type] = "library"
+libraries[modernizr][directory_name] = "modernizr"
+libraries[modernizr][type] = "library"
 
 ; required by navbar
 libraries[underscore][download][type] = "git"
 libraries[underscore][download][url] = "https://github.com/jashkenas/underscore.git"
 libraries[underscore][download][tag] = "1.5.0"
-libraries[imagesloaded][directory_name] = "underscore"
-libraries[imagesloaded][type] = "library"
+libraries[underscore][directory_name] = "underscore"
+libraries[underscore][type] = "library"
 
 libraries[imagesloaded][download][type] = "get"
 libraries[imagesloaded][download][url] = "http://desandro.github.io/imagesloaded/imagesloaded.pkgd.min.js"
@@ -128,7 +128,7 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
 
-libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "https://github.com/kni-labs/rrssb/archive/1.8.1.zip"
-libraries[ckeditor][directory_name] = "rrssb-plus"
-libraries[ckeditor][type] = "library"
+libraries[rrssb-plus][download][type] = "get"
+libraries[rrssb-plus][download][url] = "https://github.com/kni-labs/rrssb/archive/1.8.1.zip"
+libraries[rrssb-plus][directory_name] = "rrssb-plus"
+libraries[rrssb-plus][type] = "library"
