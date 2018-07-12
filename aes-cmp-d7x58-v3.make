@@ -90,10 +90,10 @@ projects[google_analytics][version] = "2.4"
 projects[bootstrap][version] = "3.19"
 projects[adminimal_theme][version] = "1.24"
 
-projects[aesbs337][download][type] = "git"
-projects[aesbs337][download][url] = "https://github.com/Coulton7/compseals.git"
-projects[aesbs337][type] = "theme"
-projects[aesbs337][directory_name] = "bootstrap_component"
+projects[bootstrap_component][download][type] = "git"
+projects[bootstrap_component][download][url] = "https://github.com/Coulton7/compseals.git"
+projects[bootstrap_component][type] = "theme"
+projects[bootstrap_component][directory_name] = "bootstrap_component"
 
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
@@ -127,6 +127,11 @@ libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.7.2/ckeditor_4.7.2_full.tar.gz"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
+
+libraries[rrssb-plus][download][type] = "get"
+libraries[rrssb-plus][download][url] = "https://github.com/kni-labs/rrssb/archive/1.8.1.zip"
+libraries[rrssb-plus][directory_name] = "rrssb-plus"
+libraries[rrssb-plus][type] = "library"
 
 libraries[rrssb-plus][download][type] = "get"
 libraries[rrssb-plus][download][url] = "https://github.com/kni-labs/rrssb/archive/1.8.1.zip"
