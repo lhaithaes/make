@@ -139,3 +139,8 @@ libraries[rrssb-plus][download][type] = "get"
 libraries[rrssb-plus][download][url] = "https://github.com/kni-labs/rrssb/archive/1.8.1.zip"
 libraries[rrssb-plus][directory_name] = "rrssb-plus"
 libraries[rrssb-plus][type] = "library"
+
+libraries[chosen][download][type] = "git"
+libraries[chosen][download][url] = "https://github.com/harvesthq/chosen.git"
+libraries[chosen][directory_name] = "chosen"
+libraries[chosen][type] = "library"
