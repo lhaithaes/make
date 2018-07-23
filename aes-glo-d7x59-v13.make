@@ -37,6 +37,8 @@ projects[filefield_sources][version] = "1.11"
 projects[flexslider][version] = "2.0-rc2"
 projects[picture][version] = "2.13"
 projects[globalredirect][version] = "1.6"
+; See https://www.drupal.org/project/globalredirect/issues/2027705#comment-12700414
+projects[globalredirect][patch][] = https://www.drupal.org/files/issues/conflict_between_global-2027705-13.patch
 projects[gmap][version] = "2.x-dev"
 ; Remove in later version
 projects[google_analytics][version] = "2.4"
