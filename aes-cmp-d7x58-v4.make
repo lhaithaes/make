@@ -4,7 +4,7 @@ core = 7.x
 ; Drupal 7
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.58.1.tar.gz"
+projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.59.3.tar.gz"
 
 ; Modules
 projects[ajax_facets][version] = "3.7"
