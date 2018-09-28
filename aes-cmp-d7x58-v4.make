@@ -140,6 +140,6 @@ libraries[rrssb-plus][directory_name] = "rrssb-plus"
 libraries[rrssb-plus][type] = "library"
 
 libraries[chosen][download][type] = "git"
-libraries[chosen][download][url] = "https://github.com/harvesthq/chosen.git"
+libraries[chosen][download][url] = "https://github.com/harvesthq/chosen-package.git"
 libraries[chosen][directory_name] = "chosen"
 libraries[chosen][type] = "library"
