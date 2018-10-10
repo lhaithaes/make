@@ -42,6 +42,7 @@ projects[globalredirect][patch][] = https://www.drupal.org/files/issues/conflict
 projects[gmap][version] = "2.x-dev"
 ; Remove in later version
 projects[google_analytics][version] = "2.4"
+; Remove in later version
 projects[google_tag][version] = "1.3"
 projects[httpbl][version] = "1.0"
 projects[i18n][version] = "1.24"
@@ -81,6 +82,7 @@ projects[search_api][version] = "1.24"
 projects[search_api_autocomplete][version] = "1.5"
 projects[search_api_page][version] = "1.4"
 projects[search_api_solr][version] = "1.12"
+projects[search_api_db][version] = "1.7"
 projects[facetapi][version] = "1.5"
 projects[custom_search][version] = "1.20"
 projects[security_review][version] = "1.3"
