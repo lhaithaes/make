@@ -4,7 +4,7 @@ core = 7.x
 ; Drupal 7
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.61.1.tar.gz"
+projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.64.1.tar.gz"
 
 ; Modules
 projects[views_bulk_operations][version] = "3.5"
@@ -76,6 +76,7 @@ projects[search_api_db][version] = "1.7"
 projects[facetapi][version] = "1.5"
 projects[custom_search][version] = "1.20"
 projects[token][version] = "1.7"
+projects[token_filter][version] = "1.1"
 projects[tvi][version] = "1.0"
 projects[variable][version] = "2.5"
 projects[views][version] = "3.20"
