@@ -145,3 +145,8 @@ libraries[wow][download][type] = "get"
 libraries[wow][download][url] = "https://github.com/matthieua/WOW/archive/master.zip"
 libraries[wow][directory_name] = "wow"
 libraries[wow][type] = "library"
+
+libraries[easing][download][type] = "get"
+libraries[easing][download][url] = "https://github.com/gdsmith/jquery.easing/archive/master.zip"
+libraries[easing][directory_name] = "easing"
+libraries[easing][type] = "library"
