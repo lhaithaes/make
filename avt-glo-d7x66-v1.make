@@ -4,7 +4,7 @@ core = 7.x
 ; Drupal 7
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.65.2.tar.gz"
+projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.66.1.tar.gz"
 
 ; Modules
 projects[animate_css][version] = "1.42"
@@ -32,11 +32,12 @@ projects[file_entity][version] = "2.25"
 projects[file_entity_link][version] = "1.0-alpha3"
 projects[floating_block][version] = "1.3"
 projects[fontawesome][version] = "3.10"
-projects[google_analytics][version] = "2.4"
+projects[google_analytics][version] = "2.6"
 projects[httpbl][version] = "1.0"
 projects[image_class][version] = "1.0"
 projects[image_url_formatter][version] = "1.4"
 projects[imageblock][version] = "1.3"
+projects[jquery_dollar][version] = "1.1"
 projects[jquery_update][version] = "2.7"
 projects[libraries][version] = "2.5"
 projects[linked_field][version] = "1.10"
@@ -78,7 +79,7 @@ projects[wowjs][version] = "1.2"
 projects[xmlsitemap][version] = "2.6"
 
 ; Themes
-projects[bootstrap][version] = "3.19"
+projects[bootstrap][version] = "3.23"
 projects[adminimal_theme][version] = "1.25"
 
 projects[aesbs337][download][type] = "git"
@@ -90,6 +91,11 @@ projects[avt_bs][download][type] = "git"
 projects[avt_bs][download][url] = "https://github.com/Coulton7/avt_bs.git"
 projects[avt_bs][type] = "theme"
 projects[avt_bs][directory_name] = "avt_bs"
+
+projects[f4s_bs][download][type] = "git"
+projects[f4s_bs][download][url] = "https://github.com/Coulton7/f4s_bs.git"
+projects[f4s_bs][type] = "theme"
+projects[f4s_bs][directory_name] = "f4s_bs"
 
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
