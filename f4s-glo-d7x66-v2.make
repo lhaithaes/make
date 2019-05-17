@@ -80,6 +80,7 @@ projects[token][version] = "1.7"
 projects[token_filter][version] = "1.1"
 projects[tvi][version] = "1.0"
 projects[views][version] = "3.22"
+projects[views_bulk_operations][version] = "3.5"
 projects[wowjs][version] = "1.2"
 projects[xmlsitemap][version] = "2.6"
 
