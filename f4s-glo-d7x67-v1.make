@@ -100,6 +100,10 @@ projects[features][type] = "module"
 projects[features][download][type] = "git"
 projects[features][download][url] = "https://github.com/Coulton7/features.git"
 
+projects[social_content][type] = "module"
+projects[social_content][download][type] = "git"
+projects[social_content][download][url] = "https://github.com/Coulton7/social_content.git"
+
 ; Themes
 projects[bootstrap][version] = "3.23"
 projects[adminimal_theme][version] = "1.25"
