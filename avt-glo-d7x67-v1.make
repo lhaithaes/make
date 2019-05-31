@@ -115,11 +115,6 @@ projects[avt_bs][download][url] = "https://github.com/Coulton7/avt_bs.git"
 projects[avt_bs][type] = "theme"
 projects[avt_bs][directory_name] = "avt_bs"
 
-projects[f4s_bs][download][type] = "git"
-projects[f4s_bs][download][url] = "https://github.com/Coulton7/f4s_bs.git"
-projects[f4s_bs][type] = "theme"
-projects[f4s_bs][directory_name] = "f4s_bs"
-
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
