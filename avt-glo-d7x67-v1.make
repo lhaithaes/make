@@ -85,7 +85,7 @@ projects[wowjs][version] = "1.2"
 
 ; Custom Modules
 projects[location][download][type] = "git"
-projects[location][download][url] = "https://github.com/lhaith/location.git"
+projects[location][download][url] = "https://github.com/lhaithaes/location.git"
 projects[location][type] = "module"
 projects[location][directory_name] = "location"
 
