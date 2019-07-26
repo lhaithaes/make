@@ -105,7 +105,7 @@ projects[globalredirect][patch][] = https://www.drupal.org/files/issues/conflict
 
 projects[ckeditor][type] = "module"
 projects[ckeditor][download][type] = "get"
-projects[ckeditor][download][url] = "https://s3-eu-west-1.amazonaws.com/aesweb/makefile/ckeditor.tar"
+projects[ckeditor][download][url] = "https://s3-eu-west-1.amazonaws.com/aesweb/sites/all/libraries/ckeditor.tar"
 
 projects[features][type] = "module"
 projects[features][download][type] = "git"
