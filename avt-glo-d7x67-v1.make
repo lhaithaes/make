@@ -58,12 +58,12 @@ projects[tvi][version] = "1.0"
 projects[views_bulk_operations][version] = "3.5"
 projects[views][version] = "3.22"
 projects[xmlsitemap][version] = "2.6"
+projects[date][version] = "2.10"
 
 ; Platform Modules
 projects[animate_css][version] = "1.42"
 projects[ckeditor][version] = "1.18"
 projects[cpn][version] = "1.7"
-projects[date][version] = "2.10"
 projects[fieldblock][version] = "1.4"
 projects[file_entity_link][version] = "1.0-alpha3"
 projects[file_entity][version] = "2.25"
