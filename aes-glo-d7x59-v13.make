@@ -17,6 +17,7 @@ projects[ctools][version] = "1.14"
 projects[cdn][version] = "2.10"
 ; Remove in later version
 projects[contact_forms][version] = "1.8"
+projects[date][version] = "2.10"
 projects[entity][version] = "1.9"
 projects[entity2text][version] = "1.0-alpha3"
 projects[entity_rules][version] = "1.0-alpha4"
