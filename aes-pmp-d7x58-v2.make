@@ -45,7 +45,7 @@ projects[aesbs337][download][revision] = "5df4f659e79af33cbbb14e4a6dc7f34f3c95e3
 projects[aesglobal][type] = "theme"
 projects[aesglobal][download][type] = "git"
 projects[aesglobal][download][url] = "https://github.com/Coulton7/aesglobal.git"
-projects[aes_basic][directory_name] = "aesglobal"
+projects[aesglobal][directory_name] = "aesglobal"
 projects[aesglobal][download][revision] = "9ef25bdcfae24a54918e7ad0350c16eda4ac847b"
 
 ; Libraries
