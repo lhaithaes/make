@@ -6,6 +6,7 @@ projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
 projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.67.1.tar.gz"
 
+
 ; Common Modules
 projects[backup_migrate][version] = "3.6"
 projects[block_class][version] = "2.4"
@@ -53,6 +54,7 @@ projects[search_api_db][version] = "1.7"
 projects[search_api_solr][version] = "1.14"
 projects[search_api][version] = "1.26"
 projects[site_map][version] = "1.3"
+projects[title][version] = "1.0-beta3"
 projects[token_filter][version] = "1.1"
 projects[token][version] = "1.7"
 projects[tvi][version] = "1.0"
