@@ -1,7 +1,10 @@
+api = 2
 core = 7.x
 
-api = 2
-projects[drupal][version] = "7.58"
+; Drupal 7
+projects[drupal][type] = "core"
+projects[drupal][download][type] = "get"
+projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.67.tar.gz"
 
 ; Modules
 projects[backup_migrate][version] = "3.5"
