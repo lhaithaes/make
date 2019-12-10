@@ -10,7 +10,6 @@ includes:
     download:
       type: "get"
       url: "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v1.make"
-      branch: "master"
 
 ; Platform Modules
 projects[animate_css][version] = "1.42"
