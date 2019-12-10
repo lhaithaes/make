@@ -35,7 +35,7 @@ projects[linkit][version] = "3.5"
 projects[login_security][version] = "1.9"
 projects[masonry_views][version] = "3.0"
 projects[masonry][version] = "3.0-beta1"
-projects[media_ckeditor][version] = "2.9"
+projects[media_ckeditor][version] = "2.10"
 projects[media][version] = "4.0-beta1"
 projects[metatag][version] = "1.25"
 projects[module_filter][version] = "2.2"
@@ -119,6 +119,11 @@ projects[avt_bs][download][type] = "git"
 projects[avt_bs][download][url] = "https://github.com/Coulton7/avt_bs.git"
 projects[avt_bs][type] = "theme"
 projects[avt_bs][directory_name] = "avt_bs"
+
+projects[ms_bs][download][type] = "git"
+projects[ms_bs][download][url] = "https://github.com/Coulton7/ms_bs.git"
+projects[ms_bs][type] = "theme"
+projects[ms_bs][directory_name] = "ms_bs"
 
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
