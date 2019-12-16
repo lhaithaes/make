@@ -1,0 +1,77 @@
+api = 2
+core = 7.x
+
+; Drupal 7
+projects[drupal][type] = "core"
+projects[drupal][download][type] = "get"
+projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.68.1.tar.gz"
+
+; includes
+includes[aes-std-d7-v3] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v3.make"
+
+; Platform Modules
+projects[better_exposed_filters][version] = "3.8"
+projects[breakpoints][version] = "1.6"
+projects[contact_forms][version] = "1.9"
+projects[custom_search][version] = "1.20"
+projects[facetapi][version] = "1.6"
+projects[feeds_tamper][version] = "1.2"
+projects[feeds][version] = "2.0-beta4"
+projects[field_group_ajaxified_multipage][version] = "1.1"
+projects[field_hidden][version] = "1.8"
+projects[filefield_sources][version] = "1.11"
+projects[flexslider][version] = "2.0-rc2"
+projects[gmap][version] = "2.x-dev"
+projects[i18n_contrib][version] = "1.0-alpha2"
+projects[i18n][version] = "1.26"
+projects[i18nviews][version] = "3.x-dev"
+projects[job_scheduler][version] = "2.0"
+projects[l10n_update][version] = "2.3"
+projects[lang_dropdown][version] = "2.6"
+projects[menu_attributes][version] = "1.0"
+projects[menu_block][version] = "2.8"
+projects[pathrules][version] = "1.0"
+projects[remote_file_source][version] = "1.0"
+projects[rules_url_argument][version] = "1.2"
+projects[schema][version] = "1.3"
+projects[search_api_autocomplete][version] = "1.6"
+projects[search_api_page][version] = "1.5"
+projects[variable][version] = "2.5"
+projects[views_data_export] = "3.2"
+projects[wysiwyg][version] = "2.6"
+
+; Custom Modules
+projects[location][download][type] = "git"
+projects[location][download][url] = "https://github.com/lhaithaes/location.git"
+projects[location][type] = "module"
+projects[location][directory_name] = "location"
+
+projects[globalredirect][version] = "1.6"
+; See https://www.drupal.org/project/globalredirect/issues/2027705#comment-12700414
+projects[globalredirect][patch][] = https://www.drupal.org/files/issues/conflict_between_global-2027705-13.patch
+
+projects[ckeditor][type] = "module"
+projects[ckeditor][download][type] = "get"
+projects[ckeditor][download][url] = "https://s3-eu-west-1.amazonaws.com/aesweb/makefile/ckeditor.tar"
+
+projects[features][type] = "module"
+projects[features][download][type] = "git"
+projects[features][download][url] = "https://github.com/Coulton7/features.git"
+
+projects[social_content][type] = "module"
+projects[social_content][download][type] = "git"
+projects[social_content][download][url] = "https://github.com/Coulton7/social_content.git"
+
+; Themes
+projects[bootstrap][version] = "3.19"
+projects[adminimal_theme][version] = "1.25"
+
+projects[aesbs337][download][type] = "git"
+projects[aesbs337][download][url] = "https://github.com/Coulton7/aesbs337.git"
+projects[aesbs337][type] = "theme"
+projects[aesbs337][directory_name] = "aesbs337"
+
+projects[aesglobal][download][type] = "git"
+projects[aesglobal][download][url] = "https://github.com/Coulton7/aesglobal.git"
+projects[aesglobal][type] = "theme"
+projects[aesglobal][directory_name] = "aesglobal"
