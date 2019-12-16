@@ -40,37 +40,7 @@ projects[variable][version] = "2.5"
 projects[views_data_export] = "3.2"
 projects[wysiwyg][version] = "2.6"
 
-; Custom Modules
-projects[location][download][type] = "git"
-projects[location][download][url] = "https://github.com/lhaithaes/location.git"
-projects[location][type] = "module"
-projects[location][directory_name] = "location"
-
-projects[globalredirect][version] = "1.6"
-; See https://www.drupal.org/project/globalredirect/issues/2027705#comment-12700414
-projects[globalredirect][patch][] = https://www.drupal.org/files/issues/conflict_between_global-2027705-13.patch
-
-projects[ckeditor][type] = "module"
-projects[ckeditor][download][type] = "get"
-projects[ckeditor][download][url] = "https://s3-eu-west-1.amazonaws.com/aesweb/makefile/ckeditor.tar"
-
-projects[features][type] = "module"
-projects[features][download][type] = "git"
-projects[features][download][url] = "https://github.com/Coulton7/features.git"
-
-projects[social_content][type] = "module"
-projects[social_content][download][type] = "git"
-projects[social_content][download][url] = "https://github.com/Coulton7/social_content.git"
-
 ; Themes
-projects[bootstrap][version] = "3.19"
-projects[adminimal_theme][version] = "1.25"
-
-projects[aesbs337][download][type] = "git"
-projects[aesbs337][download][url] = "https://github.com/Coulton7/aesbs337.git"
-projects[aesbs337][type] = "theme"
-projects[aesbs337][directory_name] = "aesbs337"
-
 projects[aesglobal][download][type] = "git"
 projects[aesglobal][download][url] = "https://github.com/Coulton7/aesglobal.git"
 projects[aesglobal][type] = "theme"
