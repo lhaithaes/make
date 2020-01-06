@@ -103,8 +103,8 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
 
-libraries[fontawesome][download][type] = "get"
-libraries[fontawesome][download][url] = "https://github.com/FortAwesome/Font-Awesome/archive/v4.6.3.zip"
+libraries[fontawesome][download][type] = "git"
+libraries[fontawesome][download][url] = "https://github.com/FortAwesome/Font-Awesome.git"
 libraries[fontawesome][directory_name] = "fontawesome"
 libraries[fontawesome][type] = "library"
 
