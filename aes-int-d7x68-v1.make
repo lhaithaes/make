@@ -45,13 +45,11 @@ projects[bootstrap_quicktabs][version] = "1.1"
 projects[rabbit_hole][version] = "2.25"
 
 ; Custom Modules
-
 projects[features][type] = "module"
 projects[features][download][type] = "git"
 projects[features][download][url] = "https://github.com/Coulton7/features.git"
 
 ; Themes
-
 projects[aesinternational][download][type] = "git"
 projects[aesinternational][download][url] = "https://github.com/Coulton7/aesinternational.git"
 projects[aesinternational][type] = "theme"
@@ -65,5 +63,3 @@ libraries[flexslider][download][type] = "git"
 libraries[flexslider][download][url] = "https://github.com/woocommerce/FlexSlider.git"
 libraries[flexslider][directory_name] = "flexslider"
 libraries[flexslider][type] = "library"
-
-
