@@ -124,8 +124,13 @@ libraries[modernizr][download][url] = "https://raw.githubusercontent.com/BrianGi
 libraries[modernizr][directory_name] = "modernizr"
 libraries[modernizr][type] = "library"
 
-libraries[rrssb-plus][download][type] = "get"
-libraries[rrssb-plus][download][url] = "https://github.com/AdamPS/rrssb-plus/archive/0.5.2.zip"
+libraries[rrssb][download][type] = "git"
+libraries[rrssb][download][url] = "https://github.com/kni-labs/rrssb.git"
+libraries[rrssb][directory_name] = "rrssb"
+libraries[rrssb][type] = "library"
+
+libraries[rrssb-plus][download][type] = "git"
+libraries[rrssb-plus][download][url] = "https://github.com/AdamPS/rrssb-plus.git"
 libraries[rrssb-plus][directory_name] = "rrssb-plus"
 libraries[rrssb-plus][type] = "library"
 
