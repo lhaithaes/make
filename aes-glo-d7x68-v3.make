@@ -45,10 +45,3 @@ projects[aesglobal][download][type] = "git"
 projects[aesglobal][download][url] = "https://github.com/Coulton7/aesglobal.git"
 projects[aesglobal][type] = "theme"
 projects[aesglobal][directory_name] = "aesglobal"
-
-; Needed for some legacy paths, IT email disclaimer for example
-projects[aesseal_classic][download][type] = "git"
-projects[aesseal_classic][download][url] = "https://github.com/Coulton7/aesseal_classic.git"
-projects[aesseal_classic][type] = "theme"
-projects[aesseal_classic][directory_name] = "aesseal_classic"
-
