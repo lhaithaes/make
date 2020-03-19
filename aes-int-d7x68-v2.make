@@ -42,7 +42,6 @@ projects[workflow][version] = "2.10"
 ;new
 projects[quicktabs][version] = "3.8"
 projects[bootstrap_quicktabs][version] = "1.1"
-projects[rabbit_hole][version] = "2.25"
 
 ; Custom Modules
 projects[features][type] = "module"
