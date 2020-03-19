@@ -1,12 +1,12 @@
 ; Common Modules
-projects[backup_migrate][version] = "3.6"
+projects[backup_migrate][version] = "3.7"
 projects[block_class][version] = "2.4"
 projects[breadcrumbs_by_path][version] = "1.0-alpha13"
 projects[ckeditor_plain_summary][version] = "1.0"
 projects[ctools][version] = "1.15"
 projects[date][version] = "2.10"
-projects[entity_rules][version] = "1.0-alpha4"
 projects[entity][version] = "1.9"
+projects[entity_rules][version] = "1.0-alpha4"
 projects[entity2text][version] = "1.x-dev"
 projects[entityform][version] = "2.0-rc4"
 projects[entityreference][version] = "1.5"
@@ -17,7 +17,6 @@ projects[field_formatter_settings][version] = "1.1"
 projects[field_group][version] = "1.6"
 projects[field_validation][version] = "2.6"
 projects[fontawesome][version] = "3.12"
-projects[google_analytics][version] = "2.6"
 projects[google_tag][version] = "2.x-dev"
 projects[httpbl][version] = "1.0"
 projects[image_class][version] = "1.0"
@@ -30,7 +29,7 @@ projects[masonry_views][version] = "3.0"
 projects[masonry][version] = "3.0-beta1"
 projects[media_ckeditor][version] = "2.10"
 projects[media][version] = "4.x-dev"
-projects[metatag][version] = "1.25"
+projects[metatag][version] = "1.27"
 projects[module_filter][version] = "2.2"
 projects[navbar][version] = "1.7"
 projects[node_class][version] = "1.3"
@@ -50,7 +49,7 @@ projects[token_filter][version] = "1.1"
 projects[token][version] = "1.7"
 projects[tvi][version] = "1.0"
 projects[views_bulk_operations][version] = "3.5"
-projects[views][version] = "3.23"
+projects[views][version] = "3.24"
 projects[xmlsitemap][version] = "2.6"
 
 ; Custom Modules
@@ -65,7 +64,7 @@ projects[globalredirect][patch][] = https://www.drupal.org/files/issues/conflict
 
 projects[ckeditor][type] = "module"
 projects[ckeditor][download][type] = "get"
-projects[ckeditor][download][url] = "https://s3-eu-west-1.amazonaws.com/aesweb/sites/all/libraries/ckeditor.tar"
+projects[ckeditor][download][url] = "https://s3-eu-west-1.amazonaws.com/aesweb/sites/all/libraries/ckeditor.tar.gz"
 
 projects[features][type] = "module"
 projects[features][download][type] = "git"
@@ -75,7 +74,7 @@ projects[social_content][type] = "module"
 projects[social_content][download][type] = "git"
 projects[social_content][download][url] = "https://github.com/Coulton7/social_content.git"
 
-; Themes
+; Common Themes
 projects[bootstrap][version] = "3.23"
 projects[adminimal_theme][version] = "1.25"
 
@@ -90,9 +89,6 @@ projects[aesseal_classic][type] = "theme"
 projects[aesseal_classic][directory_name] = "aesseal_classic"
 
 ; Libraries
-; Please fill the following out. Type may be one of get, git, bzr or svn,
-; and url is the url of the download.
-
 libraries[animate][download][type] = "get"
 libraries[animate][download][url] = "https://github.com/daneden/animate.css/archive/master.zip"
 libraries[animate][directory_name] = "animate"
@@ -102,11 +98,6 @@ libraries[backbone][download][type] = "get"
 libraries[backbone][download][url] = "https://github.com/jashkenas/backbone/archive/1.1.0.zip"
 libraries[backbone][directory_name] = "backbone"
 libraries[backbone][type] = "library"
-
-libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.7.2/ckeditor_4.7.2_full.tar.gz"
-libraries[ckeditor][directory_name] = "ckeditor"
-libraries[ckeditor][type] = "library"
 
 libraries[fontawesome][download][type] = "git"
 libraries[fontawesome][download][url] = "https://github.com/FortAwesome/Font-Awesome.git"
@@ -123,7 +114,6 @@ libraries[masonry][download][url] = "https://unpkg.com/masonry-layout@4/dist/mas
 libraries[masonry][directory_name] = "masonry"
 libraries[masonry][type] = "library"
 
-; required by navbar
 libraries[modernizr][download][type] = "file"
 libraries[modernizr][download][url] = "https://raw.githubusercontent.com/BrianGilbert/modernizer-navbar/2.7.1/modernizr-min.js"
 libraries[modernizr][directory_name] = "modernizr"
@@ -153,4 +143,3 @@ libraries[easing][download][type] = "get"
 libraries[easing][download][url] = "https://github.com/gdsmith/jquery.easing/archive/master.zip"
 libraries[easing][directory_name] = "easing"
 libraries[easing][type] = "library"
-
