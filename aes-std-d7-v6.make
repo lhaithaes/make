@@ -1,5 +1,5 @@
 ; Common Modules
-projects[backup_migrate][version] = "3.7"
+projects[backup_migrate][version] = "3.x-dev"
 projects[block_class][version] = "2.4"
 projects[breadcrumbs_by_path][version] = "1.0-alpha13"
 projects[ckeditor_plain_summary][version] = "1.0"
