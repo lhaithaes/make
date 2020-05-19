@@ -39,7 +39,6 @@ projects[search_api_autocomplete][version] = "1.6"
 projects[search_api_page][version] = "1.5"
 projects[variable][version] = "2.5"
 projects[views_data_export] = "3.2"
-projects[wysiwyg][version] = "2.6"
 
 ; Themes
 projects[aesglobal][download][type] = "git"
