@@ -60,10 +60,6 @@ projects[location][download][url] = "https://github.com/lhaithaes/location.git"
 projects[location][type] = "module"
 projects[location][directory_name] = "location"
 
-projects[globalredirect][version] = "1.6"
-; See https://www.drupal.org/project/globalredirect/issues/2027705#comment-12700414
-projects[globalredirect][patch][] = https://www.drupal.org/files/issues/conflict_between_global-2027705-13.patch
-
 projects[ckeditor][type] = "module"
 projects[ckeditor][download][type] = "get"
 projects[ckeditor][download][url] = "https://s3-eu-west-1.amazonaws.com/aesweb/sites/all/libraries/ckeditor.tar.gz"
