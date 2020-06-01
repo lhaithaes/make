@@ -1,3 +1,6 @@
+api = 2
+core = 7.x
+
 ; Common Modules
 projects[backup_migrate][version] = "3.6"
 projects[block_class][version] = "2.4"
