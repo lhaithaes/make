@@ -2,7 +2,7 @@ api = 2
 core = 7.x
 
 ; Common Modules
-projects[backup_migrate][version] = "3.6"
+projects[backup_migrate][version] = "3.7"
 projects[block_class][version] = "2.4"
 projects[breadcrumbs_by_path][version] = "1.0-alpha13"
 projects[ckeditor_plain_summary][version] = "1.0"
