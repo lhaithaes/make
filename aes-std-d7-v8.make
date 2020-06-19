@@ -71,6 +71,7 @@ projects[tvi][version] = "1.0"
 projects[views][version] = "3.24"
 projects[views_data_export] = "3.2"
 projects[views_bulk_operations][version] = "3.6"
+projects[workflow][version] = "2.10"
 projects[xmlsitemap][version] = "2.6"
 
 ; Custom Modules
