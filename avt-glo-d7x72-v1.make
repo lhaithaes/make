@@ -11,11 +11,9 @@ includes[aes-std-d7-v8] = "https://raw.githubusercontent.com/lhaithaes/make/mast
 
 ; Platform Modules
 projects[animate_css][version] = "1.42"
-projects[ckeditor][version] = "1.18"
 projects[cpn][version] = "1.7"
 projects[fieldblock][version] = "1.4"
 projects[file_entity_link][version] = "1.0-alpha3"
-projects[file_entity][version] = "2.27"
 projects[floating_block][version] = "1.3"
 projects[image_url_formatter][version] = "1.4"
 projects[imageblock][version] = "1.3"
