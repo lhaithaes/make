@@ -43,9 +43,3 @@ projects[aes_basic][download][type] = "git"
 projects[aes_basic][download][url] = "https://github.com/Coulton7/aes_basic.git"
 projects[aes_basic][type] = "theme"
 projects[aes_basic][directory_name] = "aes_basic"
-
-; Libraries
-libraries[flexslider][download][type] = "git"
-libraries[flexslider][download][url] = "https://github.com/woocommerce/FlexSlider.git"
-libraries[flexslider][directory_name] = "flexslider"
-libraries[flexslider][type] = "library"
