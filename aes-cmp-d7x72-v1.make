@@ -87,11 +87,6 @@ projects[bootstrap_component][directory_name] = "bootstrap_component"
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
 
-libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.7.2/ckeditor_4.7.2_full.tar.gz"
-libraries[ckeditor][directory_name] = "ckeditor"
-libraries[ckeditor][type] = "library"
-
 libraries[chosen][download][type] = "git"
 libraries[chosen][download][url] = "https://github.com/harvesthq/chosen-package.git"
 libraries[chosen][directory_name] = "chosen"
