@@ -2,6 +2,7 @@ api = 2
 core = 7.x
 
 ; Common Modules
+projects[animate_css][version] = "1.42"
 projects[backup_migrate][version] = "3.7"
 projects[block_class][version] = "2.4"
 projects[breadcrumbs_by_path][version] = "1.0-alpha13"
@@ -73,6 +74,7 @@ projects[views_data_export] = "3.2"
 projects[views_bulk_operations][version] = "3.6"
 projects[workflow][version] = "2.10"
 projects[xmlsitemap][version] = "2.6"
+projects[wowjs][version] = "1.2"
 
 ; Custom Modules
 projects[location][download][type] = "git"
