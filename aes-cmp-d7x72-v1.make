@@ -87,44 +87,10 @@ projects[bootstrap_component][directory_name] = "bootstrap_component"
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
 
-; required by navbar
-libraries[backbone][download][type] = "get"
-libraries[backbone][download][url] = "https://github.com/jashkenas/backbone/archive/1.1.0.zip"
-libraries[backbone][directory_name] = "backbone"
-libraries[backbone][type] = "library"
-
-; required by navbar
-libraries[modernizr][download][type] = "file"
-libraries[modernizr][download][url] = "https://raw.githubusercontent.com/BrianGilbert/modernizer-navbar/2.7.1/modernizr-min.js"
-libraries[modernizr][directory_name] = "modernizr"
-libraries[modernizr][type] = "library"
-
-; required by navbar
-libraries[underscore][download][type] = "git"
-libraries[underscore][download][url] = "https://github.com/jashkenas/underscore.git"
-libraries[underscore][download][tag] = "1.5.0"
-libraries[underscore][directory_name] = "underscore"
-libraries[underscore][type] = "library"
-
-libraries[imagesloaded][download][type] = "file"
-libraries[imagesloaded][download][url] = "http://desandro.github.io/imagesloaded/imagesloaded.pkgd.min.js"
-libraries[imagesloaded][directory_name] = "imagesloaded"
-libraries[imagesloaded][type] = "library"
-
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.7.2/ckeditor_4.7.2_full.tar.gz"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
-
-libraries[rrssb-plus][download][type] = "get"
-libraries[rrssb-plus][download][url] = "https://github.com/kni-labs/rrssb/archive/1.8.1.zip"
-libraries[rrssb-plus][directory_name] = "rrssb-plus"
-libraries[rrssb-plus][type] = "library"
-
-libraries[rrssb-plus][download][type] = "get"
-libraries[rrssb-plus][download][url] = "https://github.com/kni-labs/rrssb/archive/1.8.1.zip"
-libraries[rrssb-plus][directory_name] = "rrssb-plus"
-libraries[rrssb-plus][type] = "library"
 
 libraries[chosen][download][type] = "git"
 libraries[chosen][download][url] = "https://github.com/harvesthq/chosen-package.git"
