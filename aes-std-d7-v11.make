@@ -3,7 +3,8 @@ core = 7.x
 
 ; Common Modules
 projects[animate_css][version] = "1.42"
-projects[backup_migrate][version] = "3.x-dev"
+projects[backup_migrate][version] = "3.6"
+; dev and 3.7 WD php Error Call to undefined function backup_migrate_include() in backup_migrate_update_7309()
 projects[block_class][version] = "2.4"
 projects[breadcrumbs_by_path][version] = "1.0-alpha13"
 projects[captcha] = "1.7"
