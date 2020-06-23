@@ -3,7 +3,7 @@ core = 7.x
 
 ; Common Modules
 projects[animate_css][version] = "1.42"
-projects[backup_migrate][version] = "3.7"
+projects[backup_migrate][version] = "3.x-dev"
 projects[block_class][version] = "2.4"
 projects[breadcrumbs_by_path][version] = "1.0-alpha13"
 projects[captcha] = "1.7"
