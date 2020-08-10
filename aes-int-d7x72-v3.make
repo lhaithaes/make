@@ -41,6 +41,12 @@ projects[aesinternational][download][url] = "https://github.com/Coulton7/aesinte
 projects[aesinternational][type] = "theme"
 projects[aesinternational][directory_name] = "aesinternational"
 
+projects[aesinternational][download][type] = "git"
+projects[aesinternational][download][url] = "https://github.com/Coulton7/redirect.git"
+projects[aesinternational][type] = "theme"
+projects[aesinternational][directory_name] = "redirect"
+
+
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
