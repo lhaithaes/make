@@ -42,9 +42,9 @@ projects[aesinternational][type] = "theme"
 projects[aesinternational][directory_name] = "aesinternational"
 
 projects[aesinternational][download][type] = "git"
-projects[aesinternational][download][url] = "https://github.com/Coulton7/redirect.git"
+projects[aesinternational][download][url] = "https://github.com/Coulton7/internationalredirect.git"
 projects[aesinternational][type] = "theme"
-projects[aesinternational][directory_name] = "redirect"
+projects[aesinternational][directory_name] = "internationalredirect"
 
 
 ; Libraries
