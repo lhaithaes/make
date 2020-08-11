@@ -41,11 +41,15 @@ projects[aesinternational][download][url] = "https://github.com/Coulton7/aesinte
 projects[aesinternational][type] = "theme"
 projects[aesinternational][directory_name] = "aesinternational"
 
-projects[aesinternational][download][type] = "git"
-projects[aesinternational][download][url] = "https://github.com/Coulton7/internationalredirect.git"
-projects[aesinternational][type] = "theme"
-projects[aesinternational][directory_name] = "internationalredirect"
+projects[internationalredirect][download][type] = "git"
+projects[internationalredirect][download][url] = "https://github.com/Coulton7/internationalredirect.git"
+projects[internationalredirect][type] = "theme"
+projects[internationalredirect][directory_name] = "internationalredirect"
 
+projects[redirect][download][type] = "git"
+projects[redirect][download][url] = "https://github.com/Coulton7/redirect.git"
+projects[redirect][type] = "theme"
+projects[redirect][directory_name] = "redirect"
 
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
