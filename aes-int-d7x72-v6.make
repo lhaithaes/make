@@ -7,7 +7,7 @@ projects[drupal][download][type] = "get"
 projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.72.1.tar.gz"
 
 ; includes
-includes[aes-std-d7-v8] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v12.make"
+includes[aes-std-d7-v8] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v13.make"
 
 ; Platform Modules
 
@@ -45,11 +45,6 @@ projects[internationalredirect][download][type] = "git"
 projects[internationalredirect][download][url] = "https://github.com/Coulton7/internationalredirect.git"
 projects[internationalredirect][type] = "theme"
 projects[internationalredirect][directory_name] = "internationalredirect"
-
-projects[redirect][download][type] = "git"
-projects[redirect][download][url] = "https://github.com/Coulton7/redirect.git"
-projects[redirect][type] = "theme"
-projects[redirect][directory_name] = "redirect"
 
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
