@@ -12,7 +12,6 @@ includes[aes-std-d7-v8] = "https://raw.githubusercontent.com/lhaithaes/make/mast
 ; Platform Modules
 projects[better_exposed_filters][version] = "3.6"
 projects[breakpoints][version] = "1.6"
-projects[contact_forms][version] = "1.9"
 projects[custom_search][version] = "1.20"
 projects[facetapi][version] = "1.6"
 projects[feeds_tamper][version] = "1.2"
