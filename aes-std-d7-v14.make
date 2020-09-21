@@ -111,8 +111,8 @@ projects[aesseal_classic][type] = "theme"
 projects[aesseal_classic][directory_name] = "aesseal_classic"
 
 ; Libraries
-libraries[animate][download][type] = "get"
-libraries[animate][download][url] = "https://github.com/daneden/animate.css/archive/master.zip"
+libraries[animate][download][type] = "git"
+libraries[animate][download][url] = "https://github.com/animate-css/animate.css.git"
 libraries[animate][directory_name] = "animate"
 libraries[animate][type] = "library"
 
