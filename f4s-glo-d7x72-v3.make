@@ -7,7 +7,7 @@ projects[drupal][download][type] = "get"
 projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.72.1.tar.gz"
 
 ; includes
-includes[aes-std-d7-v8] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v10.make"
+includes[aes-std-d7-v15] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v15.make"
 
 ; Platform Modules
 
@@ -25,7 +25,7 @@ projects[oembed][version] = "1.0-rc2"
 projects[security_review][version] = "1.3"
 projects[site_status_message][version] = "1.3"
 projects[slick_extras][version] = "2.0"
-projects[slick_views][version] = "2.1"
+projects[slick_views][version] = "2.2"
 projects[slick][version] = "2.1"
 projects[social_profile_field][version] = "1.0-rc0"
 projects[taxonomy_menu][version] = "1.6"
