@@ -5,6 +5,7 @@ core = 7.x
 projects[animate_css][version] = "1.42"
 projects[backup_migrate][version] = "3.9"
 ; only use 3.6 as dev and 3.7 WD php Error Call to undefined function backup_migrate_include() in backup_migrate_update_7309()
+; dont forget to git clone https://github.com/tpyo/amazon-s3-php-class.git s3-php5-curl
 projects[block_class][version] = "2.4"
 projects[breadcrumbs_by_path][version] = "1.0-alpha13"
 projects[captcha] = "1.7"
