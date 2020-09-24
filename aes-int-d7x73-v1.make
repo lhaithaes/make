@@ -4,10 +4,10 @@ core = 7.x
 ; Drupal 7
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.72.1.tar.gz"
+projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.73.1.tar.gz"
 
 ; includes
-includes[aes-std-d7-v8] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v13.make"
+includes[aes-std-d7-v16] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v16.make"
 
 ; Platform Modules
 
@@ -15,7 +15,7 @@ projects[bootstrap_quicktabs][version] = "1.1"
 projects[context][version] = "3.10"
 projects[entity_translation][version] = "1.1"
 projects[feeds_tamper][version] = "1.x-dev"
-projects[feeds][version] = "2.0-beta4"
+projects[feeds][version] = "2.0-beta5"
 projects[field_hidden][version] = "1.8"
 projects[fieldblock][version] = "1.4"
 projects[floating_block][version] = "1.3"
