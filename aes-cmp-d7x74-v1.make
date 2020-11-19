@@ -4,10 +4,10 @@ core = 7.x
 ; Drupal 7
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.72.1.tar.gz"
+projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-7.74.tar.gz"
 
 ; includes
-includes[aes-std-d7-v8] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v11.make"
+includes[aes-std-d7-v8] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v16.make"
 
 ; Platform Modules
 projects[ajax_facets][version] = "3.7"
