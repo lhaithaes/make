@@ -38,3 +38,8 @@ projects[ms_bs][download][type] = "git"
 projects[ms_bs][download][url] = "https://github.com/Coulton7/ms_bs.git"
 projects[ms_bs][type] = "theme"
 projects[ms_bs][directory_name] = "ms_bs"
+
+projects[aesglobal][download][type] = "git"
+projects[aesglobal][download][url] = "https://github.com/Coulton7/aesglobal.git"
+projects[aesglobal][type] = "theme"
+projects[aesglobal][directory_name] = "aesglobal"
