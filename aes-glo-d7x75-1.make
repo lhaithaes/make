@@ -17,7 +17,6 @@ projects[facetapi][version] = "1.6"
 projects[feeds_tamper][version] = "1.2"
 projects[feeds][version] = "2.0-beta4"
 projects[field_group_ajaxified_multipage][version] = "1.1"
-projects[filefield_sources][version] = "1.11"
 projects[gmap][version] = "2.x-dev"
 projects[job_scheduler][version] = "2.0"
 ; Check Call to undefined function l10n_update_ensure_htaccess before updating
