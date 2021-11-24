@@ -128,7 +128,8 @@ libraries[fontawesome][directory_name] = "fontawesome"
 libraries[fontawesome][type] = "library"
 
 libraries[imagesloaded][download][type] = "get"
-libraries[imagesloaded][download][url] = "http://desandro.github.io/imagesloaded/imagesloaded.pkgd.min.js"
+libraries[imagesloaded][download][url] = "https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"
+
 libraries[imagesloaded][directory_name] = "imagesloaded"
 libraries[imagesloaded][type] = "library"
 
