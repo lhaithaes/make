@@ -4,7 +4,7 @@ core = 7.x
 ; Drupal 7
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/7.77.1.tar.gz"
+projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/refs/tags/7.82.3.tar.gz"
 
 ; includes
 includes[aes-std-d7-v16] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v16.make"
@@ -20,8 +20,8 @@ projects[field_hidden][version] = "1.8"
 projects[fieldblock][version] = "1.4"
 projects[floating_block][version] = "1.3"
 projects[gmap][version] = "2.11"
-projects[job_scheduler][version] = "2.0-alpha3"
-projects[link][version] = "1.7"
+projects[job_scheduler][version] = "2.0"
+projects[link][version] = "1.9"
 projects[location_feeds][version] = "1.6"
 projects[neutral_paths][version] = "1.0"
 projects[oauth][version] = "3.4"
