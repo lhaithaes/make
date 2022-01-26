@@ -4,10 +4,10 @@ core = 7.x
 ; Drupal 7
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/refs/tags/7.82.3.tar.gz"
+projects[drupal][download][url] = "https://github.com/omega8cc/7x/archive/refs/tags/7.86.1.tar.gz"
 
 ; includes
-includes[aes-std-d7-v21] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v21.make"
+includes[aes-std-d7-v23] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v23.make"
 
 ; Platform Modules
 
