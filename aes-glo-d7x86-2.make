@@ -11,7 +11,6 @@ includes[aes-std-d7-v23] = "https://raw.githubusercontent.com/lhaithaes/make/mas
 
 ; Platform Modules
 projects[better_exposed_filters][version] = "3.6"
-projects[breakpoints][version] = "1.6"
 projects[custom_search][version] = "1.20"
 projects[facetapi][version] = "1.6"
 projects[feeds_tamper][version] = "1.2"
@@ -23,7 +22,6 @@ projects[job_scheduler][version] = "2.0"
 projects[menu_attributes][version] = "1.1"
 projects[menu_block][version] = "2.8"
 projects[pathrules][version] = "1.0"
-projects[remote_file_source][version] = "1.0"
 projects[rules_url_argument][version] = "1.2"
 projects[schema][version] = "1.3"
 projects[variable][version] = "2.5"
