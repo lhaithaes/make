@@ -12,8 +12,10 @@ includes[aes-std-d7-v24] = "https://raw.githubusercontent.com/lhaithaes/make/mas
 ; Platform Modules
 projects[animate_css][version] = "1.42"
 projects[cpn][version] = "1.7"
+projects[date][version] = "2.10"
 projects[fieldblock][version] = "1.4"
 projects[file_entity_link][version] = "1.0-alpha3"
+projects[floating_block][version] = "1.3"
 projects[image_url_formatter][version] = "1.4"
 projects[imageblock][version] = "1.3"
 projects[linked_field][version] = "1.10"
@@ -37,6 +39,11 @@ projects[ms_bs][download][type] = "git"
 projects[ms_bs][download][url] = "https://github.com/Coulton7/ms_bs.git"
 projects[ms_bs][type] = "theme"
 projects[ms_bs][directory_name] = "ms_bs"
+
+projects[f4s_bs][download][type] = "git"
+projects[f4s_bs][download][url] = "https://github.com/Coulton7/f4s_bs.git"
+projects[f4s_bs][type] = "theme"
+projects[f4s_bs][directory_name] = "f4s_bs"
 
 projects[aesglobal][download][type] = "git"
 projects[aesglobal][download][url] = "https://github.com/Coulton7/aesglobal.git"
