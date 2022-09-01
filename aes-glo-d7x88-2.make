@@ -21,7 +21,6 @@ projects[menu_block][version] = "2.8"
 projects[pathrules][version] = "1.0"
 projects[rules_url_argument][version] = "1.2"
 projects[schema][version] = "1.3"
-projects[variable][version] = "2.5"
 
 ; Themes
 projects[aesglobal][download][type] = "git"
