@@ -4,30 +4,30 @@ core = 7.x
 ; Drupal 7
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "https://github.com/omega8cc/drupal7x/archive/refs/tags/7.87.1.tar.gz"
+projects[drupal][download][url] = "https://github.com/omega8cc/drupal7x/archive/refs/tags/7.90.1.tar.gz"
 
 ; includes
-includes[aes-std-d7-v23] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v23.make"
+includes[aes-std-d7-v23] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v25.make"
 
 ; Platform Modules
 
 projects[bootstrap_quicktabs][version] = "1.1"
-projects[context][version] = "3.10"
+;probably remove for ui suite functions
+projects[context][version] = "3.11"
 projects[entity_translation][version] = "1.1"
 projects[feeds_tamper][version] = "1.x-dev"
 projects[feeds][version] = "2.0-beta5"
-projects[field_hidden][version] = "1.8"
+projects[field_hidden][version] = "1.9"
 projects[fieldblock][version] = "1.4"
 projects[gmap][version] = "2.11"
 projects[job_scheduler][version] = "2.0"
-projects[link][version] = "1.9"
+projects[link][version] = "1.11"
 projects[location_feeds][version] = "1.6"
 projects[neutral_paths][version] = "1.0"
 projects[oauth][version] = "3.4"
 projects[social_profile_field][version] = "1.0-rc0"
 projects[taxonomy_menu][version] = "1.6"
 projects[quicktabs][version] = "3.8"
-projects[variable][version] = "2.5"
 
 ; Custom Modules
 projects[features][type] = "module"
