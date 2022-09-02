@@ -22,7 +22,6 @@ projects[field_hidden][version] = "1.9"
 projects[fieldblock][version] = "1.4"
 projects[job_scheduler][version] = "2.0"
 projects[gmap][version] = "2.11"
-
 projects[location_feeds][version] = "1.6"
 projects[neutral_paths][version] = "1.0"
 projects[oauth][version] = "3.4"
@@ -46,6 +45,12 @@ projects[internationalredirect][download][url] = "https://github.com/Coulton7/in
 
 projects[internationalredirect][type] = "theme"
 projects[internationalredirect][directory_name] = "internationalredirect"
+
+projects[aes_basic][type] = "theme"
+projects[aes_basic][download][type] = "git"
+projects[aes_basic][download][url] = "https://github.com/Coulton7/aes_basic.git"
+projects[aes_basic][type] = "theme"
+projects[aes_basic][directory_name] = "aes_basic"
 
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
