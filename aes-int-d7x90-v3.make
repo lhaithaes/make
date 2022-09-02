@@ -43,6 +43,7 @@ projects[aesinternational][directory_name] = "aesinternational"
 
 projects[internationalredirect][download][type] = "git"
 projects[internationalredirect][download][url] = "https://github.com/Coulton7/internationalredirect.git"
+
 projects[internationalredirect][type] = "theme"
 projects[internationalredirect][directory_name] = "internationalredirect"
 
