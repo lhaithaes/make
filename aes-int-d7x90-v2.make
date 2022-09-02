@@ -14,13 +14,14 @@ includes[aes-std-d7-v23] = "https://raw.githubusercontent.com/lhaithaes/make/mas
 projects[bootstrap_quicktabs][version] = "1.1"
 ;probably remove for ui suite functions
 projects[context][version] = "3.11"
+projects[domain][version] = "3.17"
 projects[entity_translation][version] = "1.1"
 projects[feeds_tamper][version] = "1.x-dev"
 projects[feeds][version] = "2.0-beta5"
 projects[field_hidden][version] = "1.9"
 projects[fieldblock][version] = "1.4"
 projects[gmap][version] = "2.11"
-projects[job_scheduler][version] = "2.0"
+
 projects[location_feeds][version] = "1.6"
 projects[neutral_paths][version] = "1.0"
 projects[oauth][version] = "3.4"
