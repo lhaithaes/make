@@ -20,6 +20,7 @@ projects[feeds_tamper][version] = "1.x-dev"
 projects[feeds][version] = "2.0-beta5"
 projects[field_hidden][version] = "1.9"
 projects[fieldblock][version] = "1.4"
+projects[job_scheduler][version] = "2.0"
 projects[gmap][version] = "2.11"
 
 projects[location_feeds][version] = "1.6"
