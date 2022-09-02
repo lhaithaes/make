@@ -46,12 +46,6 @@ projects[internationalredirect][download][url] = "https://github.com/Coulton7/in
 projects[internationalredirect][type] = "theme"
 projects[internationalredirect][directory_name] = "internationalredirect"
 
-projects[aes_basic][type] = "theme"
-projects[aes_basic][download][type] = "git"
-projects[aes_basic][download][url] = "https://github.com/Coulton7/aes_basic.git"
-projects[aes_basic][type] = "theme"
-projects[aes_basic][directory_name] = "aes_basic"
-
 ; Libraries
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
