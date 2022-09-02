@@ -2,6 +2,7 @@ api = 2
 core = 7.x
 
 ; Common Modules
+projects[addressfield][version] = "1.3"
 projects[animate_css][version] = "1.42"
 projects[backup_migrate][version] = "3.9"
 ; dont forget to git clone https://github.com/tpyo/amazon-s3-php-class.git s3-php5-curl
@@ -49,6 +50,7 @@ projects[masonry][version] = "3.0-beta1"
 projects[media_ckeditor][version] = "2.14"
 projects[media][version] = "4.x-dev"
 projects[metatag][version] = "1.30"
+projects[migrate][version] = "2.11"
 projects[module_filter][version] = "2.2"
 projects[navbar][version] = "1.8"
 projects[pathauto][version] = "1.3"
@@ -71,6 +73,7 @@ projects[token_filter][version] = "1.1"
 projects[token][version] = "1.9"
 projects[tmgmt][version] = "1.0-rc3"
 projects[tvi][version] = "1.0"
+projects[upgrade_status][version] = "2.0-alpha1"
 projects[upgrade_status][version] = "2.0-alpha1"
 projects[variable][version] = "2.5"
 projects[views][version] = "3.26"
