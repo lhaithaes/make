@@ -15,6 +15,7 @@ projects[bootstrap_quicktabs][version] = "1.1"
 ;probably remove for ui suite functions
 projects[context][version] = "3.11"
 projects[domain][version] = "3.17"
+projects[domain_lang][version] = "1.0"
 projects[domain_path][version] = "1.0-beta4"
 projects[entity_translation][version] = "1.1"
 projects[feeds_tamper][version] = "1.x-dev"
