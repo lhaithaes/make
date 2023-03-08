@@ -99,10 +99,6 @@ projects[features][type] = "module"
 projects[features][download][type] = "git"
 projects[features][download][url] = "https://github.com/Coulton7/features.git"
 
-projects[social_content][type] = "module"
-projects[social_content][download][type] = "git"
-projects[social_content][download][url] = "https://github.com/Coulton7/social_content.git"
-
 ; Common Themes
 projects[bootstrap][version] = "3.26"
 projects[adminimal_theme][version] = "1.26"
@@ -111,11 +107,6 @@ projects[aesbs337][download][type] = "git"
 projects[aesbs337][download][url] = "https://github.com/Coulton7/aesbs337.git"
 projects[aesbs337][type] = "theme"
 projects[aesbs337][directory_name] = "aesbs337"
-
-projects[aesseal_classic][download][type] = "git"
-projects[aesseal_classic][download][url] = "https://github.com/Coulton7/aesseal_classic.git"
-projects[aesseal_classic][type] = "theme"
-projects[aesseal_classic][directory_name] = "aesseal_classic"
 
 ; Libraries
 libraries[animate][download][type] = "git"
