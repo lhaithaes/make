@@ -31,6 +31,7 @@ projects[neutral_paths][version] = "1.0"
 projects[oauth][version] = "3.4"
 projects[schema][version] = "1.3"
 projects[social_profile_field][version] = "1.0-rc0"
+projects[tablefield][version] = "3.6"
 projects[taxonomy_menu][version] = "1.6"
 projects[quicktabs][version] = "3.8"
 
