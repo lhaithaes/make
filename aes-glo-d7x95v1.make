@@ -4,7 +4,7 @@ core = 7.x
 ; Drupal 7
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "https://github.com/omega8cc/drupal7x/archive/refs/tags/7.94.1.tar.gz"
+projects[drupal][download][url] = "https://github.com/omega8cc/drupal7x/archive/refs/tags/7.95.1.tar.gz"
 
 ; includes
 includes[aes-std-d7-v27] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v27.make"
