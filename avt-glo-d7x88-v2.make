@@ -7,7 +7,7 @@ projects[drupal][download][type] = "get"
 projects[drupal][download][url] = "https://github.com/omega8cc/drupal7x/archive/refs/tags/7.88.1.tar.gz"
 
 ; includes
-includes[aes-std-d7-v24] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v24.make"
+includes[aes-std-d7-v27] = "https://raw.githubusercontent.com/lhaithaes/make/master/aes-std-d7-v27.make"
 
 ; Platform Modules
 projects[animate_css][version] = "1.42"
